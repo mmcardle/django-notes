@@ -103,8 +103,8 @@ def find_package_data(
     return out
 
 
-PACKAGE = "django-notes"
-NAME = "notes"
+NAME = "django-notes"
+PACKAGE = "notes"
 DESCRIPTION = "A simple reusable app to add notes to various models"
 AUTHOR = "Colin Powell"
 AUTHOR_EMAIL = "colin@onecardinal.com"
